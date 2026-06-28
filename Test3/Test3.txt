@@ -1,0 +1,2 @@
+We are Learning JavaScript Fundamentals
+Adding new message
